@@ -1,4 +1,4 @@
-package test.russel.com;/*Your package here*/
+package test.russel.com;
 
 import org.junit.Assert;
 import org.junit.Test;
